@@ -8,10 +8,10 @@
         transition: 0.5s;
     }
     .all:hover{
-        transform: scale(1.1);
+        
         border-radius: 2px;
         border: 5px solid rgba(0, 0, 0, 0.178);
-        margin: 13px;
+        
         
     }
     .img1:hover{
