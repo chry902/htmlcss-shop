@@ -12,4 +12,29 @@
         border-radius: 2px;
         border: 5px solid rgba(0, 0, 0, 0.178);
         margin: 13px;
+        
+    }
+    .img1:hover{
+        background-image: url(./img/1b.webp);
+
+    }
+    .img2:hover{
+        background-image: url(./img/2b.webp);
+
+    }
+    .img3:hover{
+        background-image: url(./img/3b.webp);
+
+    }
+    .img4:hover{
+        background-image: url(./img/4b.webp);
+
+    }
+    .img5:hover{
+        background-image: url(./img/5b.webp);
+
+    }
+    .img6:hover{
+        background-image: url(./img/6b.webp);
+
     }
