@@ -43,11 +43,12 @@ body{
     right: 0px;
 }
 .sconto{
+    
     margin: 0;
     position: absolute;
     left: 0px;
     bottom: 15px;
-    padding: 1.5px;
+    
 }
 
 .sales{
